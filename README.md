@@ -5,4 +5,4 @@
 
 
  
-![](ekran.gif)
+![](school.gif)
